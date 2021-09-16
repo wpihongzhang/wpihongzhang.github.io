@@ -6,7 +6,7 @@ author_profile: true
 <br>
 <b>CauchyCP: a powerful test under non-proportional hazards using Cauchy combination of change-point Cox regressions</b><br> 
 <ins>Hong Zhang</ins>, Qing Li, Devan V. Mehrotra, Judong Shen.
-<br /><i>Statistical Methods in Medical Research 2021 (Accepted)</i>. [doi:10.1177/09622802211037076](https://doi.org/10.1177/09622802211037076). [arXiv:2101.00059](https://arxiv.org/abs/2101.00059).
+<br /><i>Statistical Methods in Medical Research</i>. (2021), [doi:10.1177/09622802211037076](https://doi.org/10.1177/09622802211037076). [arXiv:2101.00059](https://arxiv.org/abs/2101.00059).
 
 <b>Distributions and Statistical Power of Optimal Signal Detection Methods in Finite Samples</b><br> 
 <ins>Hong Zhang</ins>, Jiashun Jin and Zheyang Wu.
