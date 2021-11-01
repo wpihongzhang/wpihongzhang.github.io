@@ -4,6 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
+<b>The general goodness-of-fit tests for correlated data</b><br> 
+<ins>Hong Zhang</ins>, Zheyang Wu.
+<br /><i>Computational Statistics & Data Analysis</i>. (2021), [doi:10.1016/j.csda.2021.107379](https://doi.org/10.1016/j.csda.2021.107379). [arXiv:1806.03668](https://arxiv.org/abs/1806.03668).
+
 <b>CauchyCP: a powerful test under non-proportional hazards using Cauchy combination of change-point Cox regressions</b><br> 
 <ins>Hong Zhang</ins>, Qing Li, Devan V. Mehrotra, Judong Shen.
 <br /><i>Statistical Methods in Medical Research</i>. (2021), [doi:10.1177/09622802211037076](https://doi.org/10.1177/09622802211037076). [arXiv:2101.00059](https://arxiv.org/abs/2101.00059).
@@ -14,7 +18,7 @@ author_profile: true
 
 <b>TFisher: A powerful truncation and weighting procedure for combining <i>p</i>-Values</b><br> 
 <ins>Hong Zhang</ins>, Tiejun Tong, John Landers and Zheyang Wu.
-<br /><i>Annals of Applied Statistics</i>. vol. 14, no. 1 (2020), pp.178–201, [doi:10.1214/19-AOAS1302](https://doi.org/10.1214/19-AOAS1302). [arXiv:1801.04309](https://arxiv.org/abs/1801.04309).  
+<br /><i>Annals of Applied Statistics</i>. vol. 14, no. 1 (2020), pp.178-201, [doi:10.1214/19-AOAS1302](https://doi.org/10.1214/19-AOAS1302). [arXiv:1801.04309](https://arxiv.org/abs/1801.04309).  
 
 <b>Composite Kernel Association Test (CKAT) for SNP-set Joint Analysis of Genotype and Genotype-by-treatment Interaction in Pharmacogenetics Studies</b><br> 
 <ins>Hong Zhang</ins>, Ni Zhao, Devan Mehrotra and Judong Shen.
@@ -32,7 +36,7 @@ Lan Luo, Judong Shen, <ins>Hong Zhang</ins>, Aparna Chhibber, Devan Mehrotra and
 <ins>Hong Zhang</ins>, Judong Shen and Zheyang Wu.
 <br /><i>Submitted</i>. [arXiv:2005.00905](https://arxiv.org/abs/2005.00905).
 
-<b>A Generalized Family of Fisher’s Combination Tests and Their Null Distributions Under Correlation</b><br> 
+<b>A Generalized Family of Fisher's Combination Tests and Their Null Distributions Under Correlation</b><br> 
 <ins>Hong Zhang</ins>, Zheyang Wu.
 <br /><i>Submitted</i>. [arXiv:2003.01286](https://arxiv.org/abs/2003.01286).
 
