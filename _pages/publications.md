@@ -3,8 +3,6 @@ title: "Publications ([Google Scholar](https://scholar.google.com/citations?user
 permalink: /publications/
 author_profile: true
 ---
-\* Corresponding author; 
-
 <br>
 <b>A fast and accurate approximation to the distributions of quadratic forms of Gaussian variables</b><br> 
 <ins>Hong Zhang\*</ins>, Judong Shen, Zheyang Wu.
@@ -45,3 +43,5 @@ Lan Luo, Judong Shen, <ins>Hong Zhang</ins>, Aparna Chhibber, Devan Mehrotra and
 <b>Generalized Goodness-Of-Fit Tests for Correlated Data</b><br> 
 <ins>Hong Zhang</ins>, Zheyang Wu.
 <br /><i>Submitted</i>. [arXiv:1806.03668](https://arxiv.org/abs/1806.03668).
+
+\* corresponding author; &dagger equal contribution. 
