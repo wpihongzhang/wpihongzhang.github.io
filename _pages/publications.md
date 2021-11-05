@@ -3,7 +3,7 @@ title: "Publications ([Google Scholar](https://scholar.google.com/citations?user
 permalink: /publications/
 author_profile: true
 ---
-
+\* Corresponding author; 
 
 <br>
 <b>A fast and accurate approximation to the distributions of quadratic forms of Gaussian variables</b><br> 
