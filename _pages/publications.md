@@ -4,6 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
+<b>A fast and accurate approximation to the distributions of quadratic forms of Gaussian variables</b><br> 
+<ins>Hong Zhang</ins>, Judong Shen, Zheyang Wu.
+<br /><i>Journal of Computational and Graphical Statistics</i>. (2021), [doi:10.1080/10618600.2021.2000423](https://doi.org/10.1080/10618600.2021.2000423). [arXiv:2005.00905](https://arxiv.org/abs/2005.00905).
+
 <b>The general goodness-of-fit tests for correlated data</b><br> 
 <ins>Hong Zhang</ins>, Zheyang Wu.
 <br /><i>Computational Statistics & Data Analysis</i>. (2021), [doi:10.1016/j.csda.2021.107379](https://doi.org/10.1016/j.csda.2021.107379). [arXiv:1806.03668](https://arxiv.org/abs/1806.03668).
@@ -32,9 +36,9 @@ Lan Luo, Judong Shen, <ins>Hong Zhang</ins>, Aparna Chhibber, Devan Mehrotra and
 <ins>Hong Zhang</ins>, Roger Lui.
 <br /><i>Infectious Disease Modelling</i>. vol. 5 (2020), pp.142-160, [doi:10.1016/j.idm.2019.12.004](https://doi.org/10.1016/j.idm.2019.12.004).
 
-<b>An efficient and accurate approximation to the distribution of quadratic forms of Gaussian variables</b><br> 
-<ins>Hong Zhang</ins>, Judong Shen and Zheyang Wu.
-<br /><i>Submitted</i>. [arXiv:2005.00905](https://arxiv.org/abs/2005.00905).
+# <b>An efficient and accurate approximation to the distribution of quadratic forms of Gaussian variables</b><br> 
+# <ins>Hong Zhang</ins>, Judong Shen and Zheyang Wu.
+# <br /><i>Submitted</i>. [arXiv:2005.00905](https://arxiv.org/abs/2005.00905).
 
 <b>A Generalized Family of Fisher's Combination Tests and Their Null Distributions Under Correlation</b><br> 
 <ins>Hong Zhang</ins>, Zheyang Wu.
