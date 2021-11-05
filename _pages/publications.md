@@ -44,4 +44,4 @@ Lan Luo, Judong Shen, <ins>Hong Zhang</ins>, Aparna Chhibber, Devan Mehrotra and
 <ins>Hong Zhang</ins>, Zheyang Wu.
 <br /><i>Submitted</i>. [arXiv:1806.03668](https://arxiv.org/abs/1806.03668).
 
-\* corresponding author; &dagger equal contribution. 
+\* corresponding author; &dagger; equal contribution. 
