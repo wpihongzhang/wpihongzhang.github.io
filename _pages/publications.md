@@ -5,7 +5,7 @@ author_profile: true
 ---
 <br>
 <b>Germline HLA lanscape and efficacy of pembrolizumab monotherapy across solid tumor types</b><br> 
-Aparna Chhibber &dagger;, Lingkang Huang &dagger;, <ins>Hong Zhang &dagger;</ins>, <i>et al</i>. 
+Aparna Chhibber&dagger;, Lingkang Huang&dagger;, <ins>Hong Zhang&dagger;</ins>, Jialin Xu, Razvan Cristescu, Xiaoqiao Liu, Devan V. Mehrotra, Judong Shen, Peter M. Shaw, Matthew D. Hellmann, Alexandra Snyder. 
 <br /><i>Immunity</i>. Accepted (2021).
 
 <b>A fast and accurate approximation to the distributions of quadratic forms of Gaussian variables</b><br> 
