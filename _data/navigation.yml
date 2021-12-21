@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "CV"
-    url: /files/CV_Hong_Zhang.pdf
+ # - title: "CV"
+ #   url: /files/CV_Hong_Zhang.pdf
     
   - title: "Publications"
     url: /publications/
