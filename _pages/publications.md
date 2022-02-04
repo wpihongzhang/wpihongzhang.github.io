@@ -4,7 +4,8 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
-\* corresponding author; &dagger; equal contribution. 
+\* corresponding author; &dagger; equal contribution.
+
 <b>The generalized Fisher's combination and accurate p-value calculation under dependence</b><br> 
 <ins>Hong Zhang</ins>, Zheyang Wu.
 <br /><i>Biometrics</i>. Accepted (2022),
