@@ -4,9 +4,14 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
+<b>The generalized Fisher's combination and accurate p-value calculation under dependence</b><br> 
+<ins>Hong Zhang</ins>, Zheyang Wu.
+<br /><i>Biometrics</i>. Accepted (2022).
+[arXiv:2003.01286](https://arxiv.org/abs/2003.01286).
+
 <b>Germline HLA lanscape and efficacy of pembrolizumab monotherapy across solid tumor types</b><br> 
 Aparna Chhibber&dagger;, Lingkang Huang&dagger;, <ins>Hong Zhang&dagger;</ins>, Jialin Xu, Razvan Cristescu, Xiaoqiao Liu, Devan V. Mehrotra, Judong Shen, Peter M. Shaw, Matthew D. Hellmann, Alexandra Snyder. 
-<br /><i>Immunity</i>. Accepted (2021).
+<br /><i>Immunity</i>. (2022), [doi:10.1016/j.immuni.2021.12.006](https://doi.org/10.1016/j.immuni.2021.12.006).
 
 <b>A fast and accurate approximation to the distributions of quadratic forms of Gaussian variables</b><br> 
 <ins>Hong Zhang\*</ins>, Judong Shen, Zheyang Wu.
