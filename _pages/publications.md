@@ -4,9 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
+\* corresponding author; &dagger; equal contribution. 
 <b>The generalized Fisher's combination and accurate p-value calculation under dependence</b><br> 
 <ins>Hong Zhang</ins>, Zheyang Wu.
-<br /><i>Biometrics</i>. Accepted (2022).
+<br /><i>Biometrics</i>. Accepted (2022),
 [arXiv:2003.01286](https://arxiv.org/abs/2003.01286).
 
 <b>Germline HLA lanscape and efficacy of pembrolizumab monotherapy across solid tumor types</b><br> 
@@ -45,12 +46,4 @@ Lan Luo, Judong Shen, <ins>Hong Zhang</ins>, Aparna Chhibber, Devan Mehrotra and
 <ins>Hong Zhang</ins>, Roger Lui.
 <br /><i>Infectious Disease Modelling</i>. vol. 5 (2020), pp.142-160, [doi:10.1016/j.idm.2019.12.004](https://doi.org/10.1016/j.idm.2019.12.004).
 
-<b>A Generalized family of Fisher's combination tests and their null distributions under correlation</b><br> 
-<ins>Hong Zhang</ins>, Zheyang Wu.
-<br /><i>Submitted</i>. [arXiv:2003.01286](https://arxiv.org/abs/2003.01286).
 
-<b>Generalized goodness-Of-Fit tests for correlated data</b><br> 
-<ins>Hong Zhang</ins>, Zheyang Wu.
-<br /><i>Submitted</i>. [arXiv:1806.03668](https://arxiv.org/abs/1806.03668).
-
-\* corresponding author; &dagger; equal contribution. 
