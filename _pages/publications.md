@@ -8,7 +8,7 @@ author_profile: true
 
 <b>The generalized Fisher's combination and accurate p-value calculation under dependence</b><br> 
 <ins>Hong Zhang</ins>, Zheyang Wu.
-<br /><i>Biometrics</i>. Accepted (2022),
+<br /><i>Biometrics</i>. (2022), [doi:10.1111/biom.13634](https://doi.org/10.1111/biom.13634).
 [arXiv:2003.01286](https://arxiv.org/abs/2003.01286).
 
 <b>Germline HLA lanscape and efficacy of pembrolizumab monotherapy across solid tumor types</b><br> 
