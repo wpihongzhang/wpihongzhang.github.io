@@ -11,7 +11,7 @@ author_profile: true
 <br /><i>Biometrics</i>. (2022), [doi:10.1111/biom.13634](https://doi.org/10.1111/biom.13634).
 [arXiv:2003.01286](https://arxiv.org/abs/2003.01286).
 
-<b>Germline HLA lanscape and efficacy of pembrolizumab monotherapy across solid tumor types</b><br> 
+<b>Germline HLA landscape does not predict efficacy of pembrolizumab monotherapy across solid tumor types</b><br> 
 Aparna Chhibber&dagger;, Lingkang Huang&dagger;, <ins>Hong Zhang&dagger;</ins>, Jialin Xu, Razvan Cristescu, Xiaoqiao Liu, Devan V. Mehrotra, Judong Shen, Peter M. Shaw, Matthew D. Hellmann, Alexandra Snyder. 
 <br /><i>Immunity</i>. (2022), [doi:10.1016/j.immuni.2021.12.006](https://doi.org/10.1016/j.immuni.2021.12.006).
 
