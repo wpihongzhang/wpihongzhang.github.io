@@ -6,6 +6,10 @@ author_profile: true
 <br>
 \* corresponding author; &dagger; equal contribution.
 
+<b>A statistical perspective on baseline adjustment in pharmacogenomic genome-wide association studies of quantitative change</b><br> 
+<ins>Hong Zhang</ins>, Aparna Chhibber, Peter M. Shaw, Devan V. Mehrotra, Judong Shen.
+<br /><i>npj Genomic Medicine</i>. (2022), [doi:10.1038/s41525-022-00303-2](https://doi.org/10.1038/s41525-022-00303-2).
+
 <b>The generalized Fisher's combination and accurate p-value calculation under dependence</b><br> 
 <ins>Hong Zhang</ins>, Zheyang Wu.
 <br /><i>Biometrics</i>. (2022), [doi:10.1111/biom.13634](https://doi.org/10.1111/biom.13634).
