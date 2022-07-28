@@ -83,12 +83,12 @@ author:
   name             : "Hong Zhang"
   avatar           : "profile.png"
   bio              : "Active researcher of statistical genetics, pharmacogenetics and statistical theories of correlated signals aggregation."
-  location         : "Rahway, NJ, USA."
-  employer         : "MRL, Merck"
+  location         : "NJ, USA."
+  employer         : "Global Biometrics and Data Management, Pfizer"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=RYhH2RMAAAAJ&hl=en"
   email            : "consistencyzhang@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Hong-Zhang-85"
   uri              :
   bitbucket        :
   codepen          :
