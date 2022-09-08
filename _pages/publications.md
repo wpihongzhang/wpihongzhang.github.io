@@ -6,6 +6,10 @@ author_profile: true
 <br>
 \* corresponding author; &dagger; equal contribution.
 
+<b>Pharmacogenomics polygenic risk score for drug response prediction using PRS-PGx methods</b><br> 
+Song Zhai&dagger;, <ins>Hong Zhang&dagger;</ins>, Devan V. Mehrotra, Judong Shen.
+<br /><i>Nature Communications</i>. (2022), [doi:10.1038/s41467-022-32407-9](https://doi.org/10.1038/s41467-022-32407-9).
+
 <b>A statistical perspective on baseline adjustment in pharmacogenomic genome-wide association studies of quantitative change</b><br> 
 <ins>Hong Zhang</ins>, Aparna Chhibber, Peter M. Shaw, Devan V. Mehrotra, Judong Shen.
 <br /><i>npj Genomic Medicine</i>. (2022), [doi:10.1038/s41525-022-00303-2](https://doi.org/10.1038/s41525-022-00303-2).
