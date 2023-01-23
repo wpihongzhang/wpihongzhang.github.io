@@ -33,3 +33,8 @@ An omnibus test of change-point Cox regression models to improve the statistical
 Accurate and computationally efficient p-value calculation for a general family of Fisher type aggregation statistics (GFisher).  
 
 [arXiv: 2003.01286](https://arxiv.org/abs/2003.01286).
+
+<b>[cwot](https://cran.r-project.org/web/packages/cwot)</b> ![](http://cranlogs.r-pkg.org/badges/grand-total/cwot?color=yellowgreen)<br> 
+A flexible and robust joint test of the single nucleotide polymorphism (SNP) main effect and genotype-by-treatment interaction effect for continuous and binary endpoints.  
+
+[doi: 10.1093/bioinformatics/btac834](https://doi.org/10.1093/bioinformatics/btac834).
