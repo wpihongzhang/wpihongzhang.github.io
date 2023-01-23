@@ -6,6 +6,10 @@ author_profile: true
 <br>
 \* corresponding author; &dagger; equal contribution.
 
+<b>Signal-noise ratio of genetic associations and statistical power of SNP-set tests</b><br> 
+<ins>Hong Zhang</ins>, Ming Liu, Jiashun Jin, Zheyang Wu.
+<br /><i>Annals of Applied Statistics</i>. (2023+)
+
 <b>AWOT and CWOT for genotype and genotype by treatment interaction joint analysis in pharmacogenetics GWAS</b><br> 
 <ins>Hong Zhang</ins>, Devan V. Mehrotra, Judong Shen.
 <br /><i>Bioinformatics</i>. (2023), [doi:10.1093/bioinformatics/btac834](https://doi.org/10.1093/bioinformatics/btac834).
