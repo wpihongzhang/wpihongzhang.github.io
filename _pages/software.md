@@ -22,17 +22,17 @@ Composite Kernel Association Test (CKAT) is a flexible and robust kernel machine
 <b>[Qapprox](https://cran.r-project.org/web/packages/Qapprox)</b> ![](http://cranlogs.r-pkg.org/badges/grand-total/Qapprox?color=yellowgreen)<br> 
 Calculates the right-tail probability of quadratic forms of Gaussian variables using the skewness-kurtosis ratio matching method, modified Liu-Tang-Zhang method and Satterthwaite-Welch method. 
 
-[arXiv: 2005.00905](https://arxiv.org/abs/2005.00905).
+[doi:10.1080/10618600.2021.2000423](https://doi.org/10.1080/10618600.2021.2000423).
 
 <b>[CauchyCP](https://cran.r-project.org/web/packages/CauchyCP)</b> ![](http://cranlogs.r-pkg.org/badges/grand-total/CauchyCP?color=yellowgreen)<br> 
 An omnibus test of change-point Cox regression models to improve the statistical power of detecting signals of non-proportional hazards patterns.  
 
-[arXiv: 2101.00059](https://arxiv.org/abs/2101.00059).
+[doi:10.1177/09622802211037076](https://doi.org/10.1177/09622802211037076).
 
 <b>[GFisher](https://cran.r-project.org/web/packages/GFisher)</b> ![](http://cranlogs.r-pkg.org/badges/grand-total/GFisher?color=yellowgreen)<br> 
 Accurate and computationally efficient p-value calculation for a general family of Fisher type aggregation statistics (GFisher).  
 
-[arXiv: 2003.01286](https://arxiv.org/abs/2003.01286).
+[doi:10.1111/biom.13634](https://doi.org/10.1111/biom.13634).
 
 <b>[cwot](https://cran.r-project.org/web/packages/cwot)</b> ![](http://cranlogs.r-pkg.org/badges/grand-total/cwot?color=yellowgreen)<br> 
 A flexible and robust joint test of the single nucleotide polymorphism (SNP) main effect and genotype-by-treatment interaction effect for continuous and binary endpoints.  
