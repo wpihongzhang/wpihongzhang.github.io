@@ -6,9 +6,14 @@ author_profile: true
 <br>
 \* corresponding author; &dagger; equal contribution.
 
+<b>Study duration prediction for clinical trials with time-to-event endpoints using mixture distributions accounting for heterogeneous population</b><br> 
+<ins>Hong Zhang\*</ins>, Jie Pu, Shibing Deng, Satrajit Roychoudhury, Haitao Chu, Douglas Robinson.
+<br /><i>Submitted</i>. (2024+), [arXiv:xxxx.xxxxx](https://arxiv.org/abs/xxxx.xxxxx).
+
+
 <b>Signal-noise ratio of genetic associations and statistical power of SNP-set tests</b><br> 
 <ins>Hong Zhang</ins>, Ming Liu, Jiashun Jin, Zheyang Wu.
-<br /><i>Annals of Applied Statistics</i>. (2023+)
+<br /><i>Annals of Applied Statistics</i>. (2023), [doi:10.1214/22-AOAS1725](https://doi.org/10.1214/22-AOAS1725).
 
 <b>AWOT and CWOT for genotype and genotype by treatment interaction joint analysis in pharmacogenetics GWAS</b><br> 
 <ins>Hong Zhang</ins>, Devan V. Mehrotra, Judong Shen.
