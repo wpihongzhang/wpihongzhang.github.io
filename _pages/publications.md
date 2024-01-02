@@ -8,7 +8,7 @@ author_profile: true
 
 <b>Study duration prediction for clinical trials with time-to-event endpoints using mixture distributions accounting for heterogeneous population</b><br> 
 <ins>Hong Zhang\*</ins>, Jie Pu, Shibing Deng, Satrajit Roychoudhury, Haitao Chu, Douglas Robinson.
-<br /><i>Submitted</i>. (2024+), [arXiv:xxxx.xxxxx](https://arxiv.org/abs/xxxx.xxxxx).
+<br /><i>Submitted</i>. (2024+), [arXiv:2401.00540](https://arxiv.org/abs/2401.00540).
 
 
 <b>Signal-noise ratio of genetic associations and statistical power of SNP-set tests</b><br> 
