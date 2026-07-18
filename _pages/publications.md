@@ -9,7 +9,7 @@ author_profile: true
 
 1. <u>Hong Zhang</u>, Ming Liu, John Landers and Zheyang Wu. "Optimal weighting for integrative association tests: application to whole-genome sequencing studies".<br>*Accepted*. ***Annals of Applied Statistics***, 2026+.
 
-2. <u>Hong Zhang\*</u>, Jie Pu, Shibing Deng, Haitao Chu, Satrajit Roychoudhury and Douglas Robinson. "Study duration prediction for clinical trials with time-to-event endpoints accounting for heterogeneous population".<br>***Journal of Biopharmaceutical Statistics***, (2025), doi: [10.1080/10543406.2025.2489294](https://doi.org/10.1080/10543406.2025.2489294).
+2. <u>Hong Zhang<sup>*</sup></u>, Jie Pu, Shibing Deng, Haitao Chu, Satrajit Roychoudhury and Douglas Robinson. "Study duration prediction for clinical trials with time-to-event endpoints accounting for heterogeneous population".<br>***Journal of Biopharmaceutical Statistics***, (2025), doi: [10.1080/10543406.2025.2489294](https://doi.org/10.1080/10543406.2025.2489294).
 
 3. <u>Hong Zhang</u>, Devan Mehrotra and Judong Shen. "AWOT and CWOT for genotype and genotype by treatment interaction joint analysis in pharmacogenetics GWAS".<br>***Bioinformatics***, vol. 39, no. 1 (2023), doi: [10.1093/bioinformatics/btac834](https://doi.org/10.1093/bioinformatics/btac834).
 
@@ -19,13 +19,13 @@ author_profile: true
 
 6. <u>Hong Zhang</u> and Zheyang Wu. "A generalized family of Fisher's combination tests and their null distributions under correlation".<br>***Biometrics***, vol. 79 (2022), doi: [10.1111/biom.13634](https://doi.org/10.1111/biom.13634).
 
-7. <u>Hong Zhang\*</u>, Judong Shen and Zheyang Wu. "A fast and accurate approximation to the distributions of quadratic forms of Gaussian variables".<br>***Journal of Computational and Graphical Statistics***, vol. 31 (2022), doi: [10.1080/10618600.2021.2000423](https://doi.org/10.1080/10618600.2021.2000423).
+7. <u>Hong Zhang<sup>*</sup></u>, Judong Shen and Zheyang Wu. "A fast and accurate approximation to the distributions of quadratic forms of Gaussian variables".<br>***Journal of Computational and Graphical Statistics***, vol. 31 (2022), doi: [10.1080/10618600.2021.2000423](https://doi.org/10.1080/10618600.2021.2000423).
 
 8. <u>Hong Zhang</u> and Zheyang Wu. "The general goodness-of-fit tests for correlated data".<br>***Computational Statistics and Data Analysis***, vol. 167 (2022), doi: [10.1016/j.csda.2021.107379](https://doi.org/10.1016/j.csda.2021.107379).
 
 9. Xiaohui Chen, <u>Hong Zhang</u>, Ming Liu, Hong-Wen Deng and Zheyang Wu. "Simultaneous detection of novel genes and SNPs by adaptive p-value combination".<br>***Frontiers in Genetics***, vol. 13 (2022), doi: [10.3389/fgene.2022.1009428](https://doi.org/10.3389/fgene.2022.1009428).
 
-10. <u>Hong Zhang\*</u>, Qing Li, Devan V. Mehrotra and Judong Shen. "CauchyCP: a powerful test under non-proportional hazards using Cauchy combination of change-point Cox regressions".<br>***Statistical Methods in Medical Research***, vol. 30, no. 11 (2021), doi: [10.1177/09622802211037076](https://doi.org/10.1177/09622802211037076).
+10. <u>Hong Zhang<sup>*</sup></u>, Qing Li, Devan V. Mehrotra and Judong Shen. "CauchyCP: a powerful test under non-proportional hazards using Cauchy combination of change-point Cox regressions".<br>***Statistical Methods in Medical Research***, vol. 30, no. 11 (2021), doi: [10.1177/09622802211037076](https://doi.org/10.1177/09622802211037076).
 
 11. <u>Hong Zhang</u>, Tiejun Tong, John Landers and Zheyang Wu. "TFisher tests: optimal and adaptive thresholding for combining $p$-values".<br>***Annals of Applied Statistics***, vol. 14 (2020), doi: [10.1214/19-AOAS1302](https://doi.org/10.1214/19-AOAS1302).
 
