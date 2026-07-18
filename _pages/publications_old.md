@@ -1,7 +1,7 @@
 ---
 title: "Publications ([Google Scholar](https://scholar.google.com/citations?user=RYhH2RMAAAAJ&hl=en))"
-permalink: /publications/
-author_profile: true
+permalink: /publications_old/
+author_profile: false
 ---
 <br>
 \* corresponding author; &dagger; equal contribution.
