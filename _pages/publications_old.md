@@ -1,0 +1,75 @@
+---
+title: "Publications ([Google Scholar](https://scholar.google.com/citations?user=RYhH2RMAAAAJ&hl=en))"
+permalink: /publications/
+author_profile: true
+---
+<br>
+\* corresponding author; &dagger; equal contribution.
+
+<b>Study duration prediction for clinical trials with time-to-event endpoints using mixture distributions accounting for heterogeneous population</b><br> 
+<ins>Hong Zhang\*</ins>, Jie Pu, Shibing Deng, Satrajit Roychoudhury, Haitao Chu, Douglas Robinson.
+<br /><i>Submitted</i>. (2024+), [arXiv:2401.00540](https://arxiv.org/abs/2401.00540).
+
+
+<b>Signal-noise ratio of genetic associations and statistical power of SNP-set tests</b><br> 
+<ins>Hong Zhang</ins>, Ming Liu, Jiashun Jin, Zheyang Wu.
+<br /><i>Annals of Applied Statistics</i>. (2023), [doi:10.1214/22-AOAS1725](https://doi.org/10.1214/22-AOAS1725).
+
+<b>AWOT and CWOT for genotype and genotype by treatment interaction joint analysis in pharmacogenetics GWAS</b><br> 
+<ins>Hong Zhang</ins>, Devan V. Mehrotra, Judong Shen.
+<br /><i>Bioinformatics</i>. (2023), [doi:10.1093/bioinformatics/btac834](https://doi.org/10.1093/bioinformatics/btac834).
+
+<b>Simultaneous detection of novel genes and SNPs by adaptive p-value combination</b><br> 
+Xiaohui Chen, <ins>Hong Zhang</ins>, Ming Liu,  Hong-Wen Deng, Zheyang Wu.
+<br /><i>Frontiers in Genetics</i>. (2022), [doi:10.3389/fgene.2022.1009428](https://doi.org/10.3389/fgene.2022.1009428).
+
+<b>Pharmacogenomics polygenic risk score for drug response prediction using PRS-PGx methods</b><br> 
+Song Zhai&dagger;, <ins>Hong Zhang&dagger;</ins>, Devan V. Mehrotra, Judong Shen.
+<br /><i>Nature Communications</i>. (2022), [doi:10.1038/s41467-022-32407-9](https://doi.org/10.1038/s41467-022-32407-9).
+
+<b>A statistical perspective on baseline adjustment in pharmacogenomic genome-wide association studies of quantitative change</b><br> 
+<ins>Hong Zhang</ins>, Aparna Chhibber, Peter M. Shaw, Devan V. Mehrotra, Judong Shen.
+<br /><i>npj Genomic Medicine</i>. (2022), [doi:10.1038/s41525-022-00303-2](https://doi.org/10.1038/s41525-022-00303-2).
+
+<b>The generalized Fisher's combination and accurate p-value calculation under dependence</b><br> 
+<ins>Hong Zhang</ins>, Zheyang Wu.
+<br /><i>Biometrics</i>. (2022), [doi:10.1111/biom.13634](https://doi.org/10.1111/biom.13634).
+[arXiv:2003.01286](https://arxiv.org/abs/2003.01286).
+
+<b>Germline HLA landscape does not predict efficacy of pembrolizumab monotherapy across solid tumor types</b><br> 
+Aparna Chhibber&dagger;, Lingkang Huang&dagger;, <ins>Hong Zhang&dagger;</ins>, Jialin Xu, Razvan Cristescu, Xiaoqiao Liu, Devan V. Mehrotra, Judong Shen, Peter M. Shaw, Matthew D. Hellmann, Alexandra Snyder. 
+<br /><i>Immunity</i>. (2022), [doi:10.1016/j.immuni.2021.12.006](https://doi.org/10.1016/j.immuni.2021.12.006).
+
+<b>A fast and accurate approximation to the distributions of quadratic forms of Gaussian variables</b><br> 
+<ins>Hong Zhang\*</ins>, Judong Shen, Zheyang Wu.
+<br /><i>Journal of Computational and Graphical Statistics</i>. (2021), [doi:10.1080/10618600.2021.2000423](https://doi.org/10.1080/10618600.2021.2000423). [arXiv:2005.00905](https://arxiv.org/abs/2005.00905).
+
+<b>The general goodness-of-fit tests for correlated data</b><br> 
+<ins>Hong Zhang</ins>, Zheyang Wu.
+<br /><i>Computational Statistics & Data Analysis</i>. (2021), [doi:10.1016/j.csda.2021.107379](https://doi.org/10.1016/j.csda.2021.107379). [arXiv:1806.03668](https://arxiv.org/abs/1806.03668).
+
+<b>CauchyCP: a powerful test under non-proportional hazards using Cauchy combination of change-point Cox regressions</b><br> 
+<ins>Hong Zhang\*</ins>, Qing Li, Devan V. Mehrotra, Judong Shen.
+<br /><i>Statistical Methods in Medical Research</i>. (2021), [doi:10.1177/09622802211037076](https://doi.org/10.1177/09622802211037076). [arXiv:2101.00059](https://arxiv.org/abs/2101.00059).
+
+<b>Distributions and statistical power of optimal signal detection methods in finite samples</b><br> 
+<ins>Hong Zhang</ins>, Jiashun Jin and Zheyang Wu.
+<br /><i>IEEE Transactions on Signal Processing</i>. vol. 68 (2020), pp.1021-1033, [doi:10.1109/TSP.2020.2967179](https://doi.org/10.1109/TSP.2020.2967179). [arXiv:1702.07082](https://arxiv.org/abs/1702.07082).
+
+<b>TFisher: A powerful truncation and weighting procedure for combining <i>p</i>-Values</b><br> 
+<ins>Hong Zhang</ins>, Tiejun Tong, John Landers and Zheyang Wu.
+<br /><i>Annals of Applied Statistics</i>. vol. 14, no. 1 (2020), pp.178-201, [doi:10.1214/19-AOAS1302](https://doi.org/10.1214/19-AOAS1302). [arXiv:1801.04309](https://arxiv.org/abs/1801.04309).  
+
+<b>Composite kernel association test (CKAT) for SNP-set joint analysis of genotype and genotype-by-treatment interaction in pharmacogenetics studies</b><br> 
+<ins>Hong Zhang</ins>, Ni Zhao, Devan Mehrotra and Judong Shen.
+<br /><i>Bioinformatics</i>. vol. 36, no. 10 (2020), pp.3162-3168, [doi:10.1093/bioinformatics/btaa125](https://doi.org/10.1093/bioinformatics/btaa125).
+
+<b>Multi-trait analysis of rare-variant association summary statistics using MTAR</b><br> 
+Lan Luo, Judong Shen, <ins>Hong Zhang</ins>, Aparna Chhibber, Devan Mehrotra and Zheng-zheng Tang.
+<br /><i>Nature Communications</i>. 11:2850 (2020), [doi:10.1038/s41467-020-16591-0](https://doi.org/10.1038/s41467-020-16591-0). 
+
+<b>Releasing Wolbachia-infected Aedes aegypti to prevent the spread of dengue virus: a mathematical study</b><br> 
+<ins>Hong Zhang</ins>, Roger Lui.
+<br /><i>Infectious Disease Modelling</i>. vol. 5 (2020), pp.142-160, [doi:10.1016/j.idm.2019.12.004](https://doi.org/10.1016/j.idm.2019.12.004).
+
+
